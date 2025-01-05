@@ -1,0 +1,11 @@
+@article{REPO389,
+    author = "Shaker, Abdelrahman and Maaz, Muhammad and Rasheed, Hanoona and Khan, Salman and Yang, Ming-Hsuan and Shahbaz Khan, Fahad",
+    doi = "10.1109/TMI.2024.3398728",
+    journal = "IEEE Transactions on Medical Imaging",
+    keywords = "Image segmentation;Three-dimensional displays;Transformers;Biomedical imaging;Complexity theory;Graphics processing units;Task analysis;Deep learning;efficient attention;hybrid architecture;medical image segmentation",
+    number = "9",
+    pages = "3377-3390",
+    title = "{UNETR++: Delving Into Efficient and Accurate 3D Medical Image Segmentation}",
+    volume = "43",
+    year = "2024"
+}
