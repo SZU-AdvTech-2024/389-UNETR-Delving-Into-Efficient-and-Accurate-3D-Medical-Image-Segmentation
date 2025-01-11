@@ -1,0 +1,12 @@
+Dice_etnan 
+Dice_tcnan 
+Dice_wtnan 
+Dice_ednan 
+Dice_netnan 
+HD_etnan 
+HD_tcnan 
+HD_wtnan 
+HD_ednan 
+HD_netnan 
+Dicenan 
+HDnan 
